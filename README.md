@@ -1,9 +1,15 @@
 ## Hello, I am Manka'a👋 Welcome to my profile
 
+- 🔭 I’m currently a frontend developer
+- 🌱 I’m currently learning Nextjs
+- 💬 Ask me about tech-related topics
+- 📫 How to reach me: Check my socials to contact me
+
 ## Socials  
   
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/ManeBa_cnm)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/mankaa-che12345)
+[<img src="https://img.shields.io/badge/gmail-%23e4405f.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mankaache10@gmail.com)
 
 ## Github stats
 
@@ -21,11 +27,11 @@
 <table> 
   <tbody> 
     <tr valign="top"> 
-      <td width="140px" align="center"> 
+      <td width="100px" align="center"> 
         <span>Javascript</span><br><br><br> 
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png">
       </td> 
-      <td width="140px" align="center"> <span>Typescript</span><br><br><br> 
+      <td width="100px" align="center"> <span>Typescript</span><br><br><br> 
         <img height="64px" src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg"> 
       </td> 
     </tr> 
